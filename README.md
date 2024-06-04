@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Noah Parsons Corpuz</h1>
 <h3 align="center">Computer Science Student @ UVIC</h3>
 
-- 🔭 I’m currently working on [TFTutor](https://github.com/noahparsonscorpuz/TFTutor)
+- 🔭 I’m currently working on [**TFTutor**](https://github.com/noahparsonscorpuz/TFTutor)
 
 - 🌱 I’m currently learning **React**
 
