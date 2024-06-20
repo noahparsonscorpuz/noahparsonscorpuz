@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [**TFTutor**](https://github.com/noahparsonscorpuz/TFTutor)
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **Pandas**
 
 - 📫 How to reach me **noahparsonscorpuz@gmail.com**
 
