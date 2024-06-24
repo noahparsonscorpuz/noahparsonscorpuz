@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Noah Parsons Corpuz</h1>
 <h3 align="center">Computer Science Student @ UVIC</h3>
 
-- 👔 I'm currently working at [**Alinco IT**](https://www.alincoit.com/) as an **Information Sysytem Analyst** ☝️🤓
+- 👔 I'm currently working at [**Alinco IT**](https://www.alincoit.com/) as an **Information Sysytem Analyst**
 
 - 🔭 I was most recently working on [**TFTutor**](https://github.com/noahparsonscorpuz/TFTutor)
 
