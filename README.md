@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Pandas**
 
-- 🗺️ I'm currently curating my course selection for **Data Science** and **Data Analysis**.
+- 🗺️ I'm currently curating my course selection for **Data Science** and **Data Analysis**
 
 - 🔭 I was most recently working on [**TFTutor**](https://github.com/noahparsonscorpuz/TFTutor)
 
