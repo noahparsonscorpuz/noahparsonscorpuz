@@ -3,10 +3,10 @@
 
 - 👔 Last summer I worked at [**Alinco IT**](https://www.alincoit.com/) as an **Information System Analyst**
 
-- 🌱 I’m currently learning **Pandas**
+- 🔭 I have recently been working on [**TFTutor**](https://github.com/noahparsonscorpuz/TFTutor)
+
+- 🌱 I’m currently learning **React**
 
 - 🗺️ I'm currently curating my course selection for **Data Science** and **Data Analysis**
-
-- 🔭 I was most recently working on [**TFTutor**](https://github.com/noahparsonscorpuz/TFTutor)
 
 - 📫 How to reach me **noahparsonscorpuz@gmail.com**
