@@ -5,6 +5,6 @@
 
 - 🌱 I’m currently learning **PyTorch**
 
-- - 👔 My last internship was at [**Alinco IT**](https://www.alincoit.com/) as an **Information System Analyst**
+- 👔 My last internship was at [**Alinco IT**](https://www.alincoit.com/) as an **Information System Analyst**
 
 - 📫 How to reach me **noahparsonscorpuz@gmail.com**
