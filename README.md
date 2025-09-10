@@ -5,6 +5,6 @@
 
 - 🌱 I’m currently learning **PyTorch**
 
-- 👔 Right now completing a co-op term at [**Shoreline Medical Society**](https://shorelinemedical.ca/) as a **Software Developer**
+- 👔 Right now completing a co-op term at [**Shoreline Medical Society**](https://shorelinemedical.ca/) as a **Full-Stack Web Developer**
 
 - 📫 How to reach me **noahparsonscorpuz@gmail.com**
