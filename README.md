@@ -12,5 +12,4 @@
 
 ## 📫 Connect With Me  
 - **Email:** noahparsonscorpuz@gmail.com  
-- **LinkedIn:** [linkedin.com/in/noahpc](https://linkedin.com/in/noahpc)  
-- **GitHub:** [github.com/noahpc](https://github.com/noahpc) 
+- **LinkedIn:** [linkedin.com/in/noahparsonscorpuz](https://linkedin.com/in/noahparsonscorpuz)  
