@@ -4,7 +4,6 @@
 ## 🚀 What I’m Working On  
 - **synqr.ai**: AI-powered scheduling platform that automates availability collection → optimization → calendar invites.  
 - **Pacific Herring Forecasting**: LSTM-based time series model forecasting ecological dynamics from 70+ years of stock data.  
-- **Shoreline Medical Society (Co-op)**: Developing full-stack healthcare solutions with React, TypeScript, Supabase, and internal EHR integrations.  
 
 ## 🛠️ Skills & Tools  
 **Languages & Data:** Python, C, C++, Java, R, SQL, PostgreSQL, NoSQL, JavaScript, TypeScript  
