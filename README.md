@@ -7,7 +7,7 @@
 
 ## 🛠️ Skills & Tools  
 **Languages & Data:** Python, C, C++, Java, R, SQL, PostgreSQL, NoSQL, JavaScript, TypeScript  
-**Frameworks & Systems:** Next.js, React, Supabase, PyTorch, scikit-learn, Pandas, NumPy, Streamlit, Git, REST APIs, Azure, Netlify  
+**Frameworks & Systems:** Next.js, React, Supabase, PyTorch, scikit-learn, Pandas, NumPy, Streamlit, Git, REST APIs, Azure
 
 ## 📫 Connect With Me  
 - **Email:** noahparsonscorpuz@gmail.com  
